@@ -5,6 +5,7 @@ import Header from './component/Header';
 
 function App() {
 
+  let salom = 'men yangi keldim'
   const [value, setValue] = useState(1);  
   const [priceOfMall, setPriceOfMall] = useState(16000);
 
